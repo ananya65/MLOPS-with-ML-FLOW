@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "MLOPS-with-ML-FLOW"
-AUTHOR_USER_NAME = "nolanananya"
+AUTHOR_USER_NAME = "ananya65"
 SRC_REPO = "MLOPSproject"
 AUTHOR_EMAIL = "ananya9842@gmail.com"
 
