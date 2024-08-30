@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pandea/OneDrive%20-%20University%20Hospital%20Southampton%20NHS%20Foundation%20Trust/BitBucket/test_projects/MLOPS-with-ML-FLOW/mlruns/0/c684a51d2bb143dda62847d881b5a097/artifacts
+end_time: 1724840263512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c684a51d2bb143dda62847d881b5a097
+run_name: treasured-whale-161
+run_uuid: c684a51d2bb143dda62847d881b5a097
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724840260489
+status: 3
+tags: []
+user_id: pandea

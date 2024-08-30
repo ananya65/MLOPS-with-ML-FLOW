@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pandea/OneDrive%20-%20University%20Hospital%20Southampton%20NHS%20Foundation%20Trust/BitBucket/test_projects/MLOPS-with-ML-FLOW/mlruns/0/b4d20683db784e0cb9e0ebbc6f899b5a/artifacts
+end_time: 1724840778568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d20683db784e0cb9e0ebbc6f899b5a
+run_name: classy-bird-364
+run_uuid: b4d20683db784e0cb9e0ebbc6f899b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724840775560
+status: 3
+tags: []
+user_id: pandea
